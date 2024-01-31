@@ -15,7 +15,7 @@ struct MainView: View {
     
     var body: some View {
         VStack {
-            Text("This is a Test!")
+            Text("This is a TEXT!")
         }
         .padding()
     }
